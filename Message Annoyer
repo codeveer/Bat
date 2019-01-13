@@ -1,0 +1,13 @@
+@ echo off
+:loop
+msg* Hii there!
+msg* Are you Fine?
+msg* Never mind about me...
+msg* I am caring for you...
+msg* Start counting 1 to 5
+msg* 1
+msg* 2
+msg* 3
+msg* 4
+msg* 5
+goto loop
