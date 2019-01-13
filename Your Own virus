@@ -1,0 +1,15 @@
+@echo off
+title any name...
+color 02
+echo YOU HAVE VIRUS ON YOUR COMPUTER!
+pause
+echo CONTATTING ANTIVIRUS
+pause
+echo DO YOU WANT TO DELETE THE VIRUS?
+pause
+echo ACCESS DENIED!!!
+pause
+echo ACTIVATING VIRUS...
+:1
+DIR/s
+goto 1
